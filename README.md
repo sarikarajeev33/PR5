@@ -1,6 +1,6 @@
 Programming Assignment 5
 
-Due: Wed Nov 18, 11:59pm
+
 
 Problem The files 2016_09.csv and 2016_10.csv contain data for taxi trips in the city of Chicago for the months of September and October of 2016 (respectively) in comma-separated values format. Each line contains the values in the following order:
 
